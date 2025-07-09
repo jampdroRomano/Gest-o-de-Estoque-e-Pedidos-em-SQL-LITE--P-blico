@@ -13,7 +13,8 @@ Este projeto simula um sistema de vendas com controle de estoque utilizando **SQ
 
 ```
 sql-loja-vendas/
-├── BD_LOJA_DE_VENDAS.db
+├── DATA/
+│   └── BD_LOJA_DE_VENDAS.db   ← banco .db
 ├── 1_criacao_tabelas.sql
 ├── 2_Exemplo_consultas.sql
 ├── 3_inserts.sql
