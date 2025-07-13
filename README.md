@@ -89,4 +89,4 @@ SELECT * FROM vw_pedidos_com_detalhes;
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome Aqui] como parte dos estudos em SQL e bancos de dados relacionais.
+Desenvolvido por João Pedro Romano como parte dos estudos em SQL e bancos de dados relacionais.
